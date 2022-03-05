@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tuncaytetik
+- 👀 I’m interested in Codding
+- 🌱 I’m currently learning PHP
+- 📫 How to reach me tuncaytetik.github.io
