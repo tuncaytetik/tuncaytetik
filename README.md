@@ -6,11 +6,11 @@
 
 - 🌱 Şu anda **React.js** öğreniyorum
 
-- 👨‍💻 Tüm projelerime  adresinden ulaşabilirsiniz.[https://tuncaytetik.github.io/](https://tuncaytetik.github.io/)
+- 👨‍💻 Tüm projelerime  adresinden ulaşabilirsiniz. [https://tuncaytetik.github.io/](https://tuncaytetik.github.io/)
 
-- 💬 **Front-End** hakkında soru sorun - 📫 Bana
+- 💬 **Front-End** hakkında soru sorun
 
-nasıl ulaşabilirsiniz **tuncaytetik2008@gmail.com**
+- 📫 Bana nasıl ulaşabilirsiniz **tuncaytetik2008@gmail.com**
 
 - ⚡ Eğlenceli gerçek **Formula 1 :)**
 
